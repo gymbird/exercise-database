@@ -27,5 +27,16 @@
             "Slowly return to starting position while keeping your torso and back erect and hips under the bar. Exhale as you push through your heels and stand tall."
         ],
         "musclesWorked": ["Quadriceps", "Hamstrings", "Glutes", "Back (lower)"]
+    },
+    {
+        "id": "Overhead_Extension_Cable",
+        "imagePath": "/exercises/Overhead_Extension_Cable.png",
+        "name": "Overhead Extension (Cable)",
+        "description": "The overhead tricep extension is an excellent isolation exercise that targets the triceps.",
+        "kind": 0,
+        "instructions": [
+            "TODO"
+        ],
+        "musclesWorked": ["Triceps"],
     }
 ]
