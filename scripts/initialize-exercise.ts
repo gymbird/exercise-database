@@ -32,4 +32,4 @@ if(exercises.find(x => x.id === id) === undefined) {
 
 console.log(exercises);
 
-await Deno.writeTextFile("./index.json", JSON.stringify(exercises))
+await Deno.writeTextFile("./index.json", JSON.stringify(exercises, null, 1))
