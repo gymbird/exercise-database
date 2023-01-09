@@ -23,9 +23,9 @@ if(exercises.find(x => x.id === id) === undefined) {
   exercises.push({
     id,
     name,
-    description: "TODO",
-    musclesWorked: ["TODO"],
-    instructions: ["TODO"],
+    description: "This exercise has not yet been given a description.",
+    musclesWorked: ["This exercise has not yet been specified the muscles worked."],
+    instructions: ["This exercise has not yet been specified instructions."],
     kind: 0
   })
 }
