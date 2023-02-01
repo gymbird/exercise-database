@@ -9,7 +9,7 @@ interface Exercise {
 
 let [name, image_path] = Deno.args;
 
-let id = name.replace("(", "").replace(")", "").replace(" ", "_");
+let id = name.replaceAll("(", "").replaceAll(")", "").replaceAll(" ", "_");
 
 Deno.run({
   cmd: ["cp", image_path, `./exercises/${id}.png`]
@@ -24,7 +24,7 @@ if(exercises.find(x => x.id === id) === undefined) {
     id,
     name,
     description: "This exercise has not yet been given a description.",
-    musclesWorked: ["This exercise has not yet been specified the muscles worked."],
+    musclesWorked: ["Unknown"],
     instructions: ["This exercise has not yet been specified instructions."],
     kind: 0
   })
