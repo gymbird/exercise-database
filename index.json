@@ -492,5 +492,29 @@
    "This exercise has not yet been specified instructions."
   ],
   "kind": 0
+ },
+ {
+  "id": "Reverse_Fly_Machine",
+  "name": "Reverse Fly (Machine)",
+  "description": "This exercise has not yet been given a description.",
+  "musclesWorked": [
+   "Unknown"
+  ],
+  "instructions": [
+   "This exercise has not yet been specified instructions."
+  ],
+  "kind": 0
+ },
+ {
+  "id": "Crunch_Machine",
+  "name": "Crunch (Machine)",
+  "description": "This exercise has not yet been given a description.",
+  "musclesWorked": [
+   "Unknown"
+  ],
+  "instructions": [
+   "This exercise has not yet been specified instructions."
+  ],
+  "kind": 0
  }
 ]
