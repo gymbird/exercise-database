@@ -1104,5 +1104,29 @@
    "This exercise has not yet been specified instructions."
   ],
   "kind": 0
+ },
+ {
+  "id": "Seated_Calf_Raise_Machine",
+  "name": "Seated Calf Raise (Machine)",
+  "description": "This exercise has not yet been given a description.",
+  "musclesWorked": [
+   "Unknown"
+  ],
+  "instructions": [
+   "This exercise has not yet been specified instructions."
+  ],
+  "kind": 0
+ },
+ {
+  "id": "Leg_Extension",
+  "name": "Leg Extension",
+  "description": "This exercise has not yet been given a description.",
+  "musclesWorked": [
+   "Unknown"
+  ],
+  "instructions": [
+   "This exercise has not yet been specified instructions."
+  ],
+  "kind": 0
  }
 ]
