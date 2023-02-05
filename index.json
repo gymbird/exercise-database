@@ -90,7 +90,7 @@
   "name": "Seated Shoulder Press (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+      "Shoulders"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -102,7 +102,8 @@
   "name": "Chin-Up",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+      "Biceps",
+      "Back (upper)"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -114,7 +115,9 @@
   "name": "Close-Grip Bench Press",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Triceps",
+   "Chest",
+   "Shoulders"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -126,7 +129,7 @@
   "name": "Incline Row (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Shoulders"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -138,7 +141,7 @@
   "name": "Front Shrug (Barbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Traps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -150,7 +153,7 @@
   "name": "Spider Curl",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Biceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -162,7 +165,10 @@
   "name": "Deadlift (Barbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Hamstrings",
+   "Back (lower)",
+   "Core",
+   "Forearms"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -174,7 +180,10 @@
   "name": "Romanian Deadlift (Barbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Hamstrings",
+   "Back (lower)",
+   "Core",
+   "Forearms"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -186,7 +195,10 @@
   "name": "Sumo Deadlift (Barbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Hamstrings",
+   "Back (lower)",
+   "Core",
+   "Forearms"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -198,7 +210,7 @@
   "name": "Calf Press",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Calves"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -210,7 +222,7 @@
   "name": "Calf Raise (Smith Machine)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Calves"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -222,7 +234,7 @@
   "name": "Lateral Raise (Machine)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Shoulders"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -234,7 +246,7 @@
   "name": "Lateral Raise (Cable)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Shoulders"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -246,7 +258,7 @@
   "name": "Lateral Raise (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Shoulders"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -258,7 +270,7 @@
   "name": "Bent-Over Reverse Fly (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Shoulders"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -270,7 +282,7 @@
   "name": "Bent-Over Reverse Fly (Cable)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Shoulders"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -282,7 +294,7 @@
   "name": "Lying Leg Curl",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Hamstrings"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -294,7 +306,7 @@
   "name": "Seated Leg Curl",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Hamstrings"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -306,7 +318,7 @@
   "name": "Wrist Curl",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Forearms"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -318,7 +330,7 @@
   "name": "Reverse Wrist Curl",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Forearms"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -330,7 +342,8 @@
   "name": "Split Squat (Barbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Quadriceps",
+   "Glutes"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -342,7 +355,8 @@
   "name": "Split Squat (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Quadriceps",
+   "Glutes"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -354,7 +368,9 @@
   "name": "Front Squat (Barbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Quadriceps",
+   "Glutes",
+   "Core"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -366,7 +382,8 @@
   "name": "Front Bench Squat (Barbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Quadriceps",
+   "Core"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -378,7 +395,9 @@
   "name": "Overhead Squat (Barbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Quadriceps",
+   "Glutes",
+   "Shoulders"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -390,7 +409,8 @@
   "name": "Pistol Squat (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Quadriceps",
+   "Glutes"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -402,7 +422,8 @@
   "name": "Split Squat (Smith Machine)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Quadriceps",
+   "Glutes"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -414,7 +435,9 @@
   "name": "Good Morning",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Hamstrings",
+   "Back (lower)",
+   "Core"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -426,7 +449,8 @@
   "name": "Seated Hammer Curl",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Biceps",
+   "Forearms"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -438,7 +462,8 @@
   "name": "Standing Hammer Curl",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Biceps",
+   "Forearms"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -450,7 +475,10 @@
   "name": "Bent-Over Row (Barbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Back (upper)",
+   "Back (lower)",
+   "Biceps",
+   "Core"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -462,7 +490,8 @@
   "name": "Upright Row (Barbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Shoulders",
+   "Traps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -474,7 +503,8 @@
   "name": "Upright Row (Cable)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Shoulders",
+   "Traps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -486,7 +516,8 @@
   "name": "Upright Row (Smith Machine)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Shoulders",
+   "Traps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -498,7 +529,7 @@
   "name": "Reverse Fly (Machine)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Shoulders"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -510,7 +541,7 @@
   "name": "Crunch (Machine)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Core"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -522,7 +553,7 @@
   "name": "Incline Curl",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Biceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -534,7 +565,8 @@
   "name": "Incline Hammer Curl",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Biceps",
+   "Forearms"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -546,7 +578,7 @@
   "name": "Skullcrusher (Barbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Triceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -558,7 +590,7 @@
   "name": "Skullcrusher (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Triceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -570,7 +602,7 @@
   "name": "One-Arm Tricep Extension",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Triceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -582,7 +614,7 @@
   "name": "Seated Tricep Extension (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Triceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -594,7 +626,8 @@
   "name": "Leg Press",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Quadriceps",
+   "Glutes"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -606,7 +639,7 @@
   "name": "Single-Leg Calf Raise (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Calves"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -618,7 +651,9 @@
   "name": "Stiff Leg Deadlift (Barbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Hamstrings",
+   "Back (lower)",
+   "Core"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -630,7 +665,7 @@
   "name": "Hip Thrust (Barbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Glutes"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -642,7 +677,8 @@
   "name": "Lunge (Barbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Quadriceps",
+   "Glutes"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -654,7 +690,7 @@
   "name": "Bench Dip",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Triceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -666,7 +702,9 @@
   "name": "Bench Press (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Chest",
+   "Triceps",
+   "Shoulders"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -678,7 +716,7 @@
   "name": "Chest Fly (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Chest"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -690,7 +728,8 @@
   "name": "Goblet Squat",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Quadriceps",
+   "Glutes"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -702,7 +741,9 @@
   "name": "Incline Bench Press (Barbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Chest",
+   "Shoulders",
+   "Triceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -714,7 +755,9 @@
   "name": "Incline Bench Press (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Chest",
+   "Shoulders",
+   "Triceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -726,7 +769,7 @@
   "name": "Incline Chest Fly (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Chest"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -738,7 +781,9 @@
   "name": "Incline Bench Press (Smith Machine)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Chest",
+   "Shoulders",
+   "Triceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -750,7 +795,7 @@
   "name": "Chest Fly (Cable)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Chest"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -762,7 +807,7 @@
   "name": "Bicep Curl (EZ Bar)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Biceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -774,7 +819,8 @@
   "name": "Underhand Lat Pulldown",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Back (upper)",
+   "Biceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -786,7 +832,7 @@
   "name": "Bicep Curl (Barbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Biceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -798,7 +844,8 @@
   "name": "One-Arm Row (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Back (upper)",
+   "Biceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -810,7 +857,7 @@
   "name": "Seated Shoulder Press (Barbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Shoulders"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -822,7 +869,7 @@
   "name": "Seated Row (Cable)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Back (upper)"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -834,7 +881,7 @@
   "name": "Seated One-Arm Concentration Curl (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Biceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -842,8 +889,8 @@
   "kind": 0
  },
  {
-  "id": "Seated_Overhead_Extension_EZ_Bar",
-  "name": "Seated Overhead Extension (EZ Bar)",
+  "id": "Seated_Tricep_Extension_EZ_Bar",
+  "name": "Seated Tricep Extension (EZ Bar)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
    "Unknown"
@@ -858,7 +905,7 @@
   "name": "Shoulder Press (Smith Machine)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Shoulders"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -870,7 +917,7 @@
   "name": "Hammer Curl (Cable)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Biceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -882,7 +929,7 @@
   "name": "Lat Pushdown (Cable)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Back (upper)"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -894,7 +941,7 @@
   "name": "Bicep Curl (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Biceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -906,7 +953,8 @@
   "name": "Hammer Curl (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Biceps",
+   "Forearms"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -918,7 +966,7 @@
   "name": "Standing Calf Raise (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Calves"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -930,7 +978,7 @@
   "name": "Front Raise (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Shoulders"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -942,7 +990,7 @@
   "name": "Standing Shoulder Press (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Shoulders"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -954,7 +1002,7 @@
   "name": "Standing Concentration Curl (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Biceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -966,7 +1014,7 @@
   "name": "Tricep Kickback (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Triceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -978,7 +1026,7 @@
   "name": "Shoulder Press (Barbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Shoulders"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -990,7 +1038,7 @@
   "name": "Shoulder Rotation (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Shoulders"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -1002,7 +1050,10 @@
   "name": "Pullover (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+    "Chest",
+    "Back (upper)",
+    "Shoulders",
+    "Triceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -1038,7 +1089,7 @@
   "name": "Tricep Dips",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Triceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -1050,7 +1101,7 @@
   "name": "Preacher Curl (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Biceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -1062,7 +1113,8 @@
   "name": "Underhand Lat Pulldown (Machine)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Back (upper)",
+   "Biceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -1074,7 +1126,8 @@
   "name": "Pull-Up",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Back (upper)",
+   "Biceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -1086,7 +1139,8 @@
   "name": "Lat Pulldown (Cable)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Back (upper)",
+   "Biceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -1098,7 +1152,7 @@
   "name": "Face Pull",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Shoulders"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -1110,7 +1164,7 @@
   "name": "Seated Calf Raise (Machine)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Calves"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -1122,7 +1176,7 @@
   "name": "Leg Extension",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Quadriceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -1134,7 +1188,7 @@
   "name": "Tricep Pushdown (Rope)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Triceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -1146,7 +1200,7 @@
   "name": "Tricep Pushdown (Bar)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Triceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -1158,7 +1212,8 @@
   "name": "Hack Squat",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Quadriceps",
+   "Glutes"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -1170,7 +1225,8 @@
   "name": "Hack Squat (Barbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Unknown"
+   "Quadriceps",
+   "Glutes"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
