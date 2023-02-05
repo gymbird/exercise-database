@@ -1152,5 +1152,29 @@
    "This exercise has not yet been specified instructions."
   ],
   "kind": 0
+ },
+ {
+  "id": "Hack_Squat",
+  "name": "Hack Squat",
+  "description": "This exercise has not yet been given a description.",
+  "musclesWorked": [
+   "Unknown"
+  ],
+  "instructions": [
+   "This exercise has not yet been specified instructions."
+  ],
+  "kind": 0
+ },
+ {
+  "id": "Hack_Squat_Barbell",
+  "name": "Hack Squat (Barbell)",
+  "description": "This exercise has not yet been given a description.",
+  "musclesWorked": [
+   "Unknown"
+  ],
+  "instructions": [
+   "This exercise has not yet been specified instructions."
+  ],
+  "kind": 0
  }
 ]
