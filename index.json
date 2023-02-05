@@ -1128,5 +1128,29 @@
    "This exercise has not yet been specified instructions."
   ],
   "kind": 0
+ },
+ {
+  "id": "Tricep_Pushdown_Rope",
+  "name": "Tricep Pushdown (Rope)",
+  "description": "This exercise has not yet been given a description.",
+  "musclesWorked": [
+   "Unknown"
+  ],
+  "instructions": [
+   "This exercise has not yet been specified instructions."
+  ],
+  "kind": 0
+ },
+ {
+  "id": "Tricep_Pushdown_Bar",
+  "name": "Tricep Pushdown (Bar)",
+  "description": "This exercise has not yet been given a description.",
+  "musclesWorked": [
+   "Unknown"
+  ],
+  "instructions": [
+   "This exercise has not yet been specified instructions."
+  ],
+  "kind": 0
  }
 ]
