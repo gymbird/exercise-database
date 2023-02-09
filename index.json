@@ -83,14 +83,14 @@
   "instructions": [
    "TODO"
   ],
-  "kind": 0
+  "kind": 2
  },
  {
   "id": "Seated_Shoulder_Press_Dumbbell",
   "name": "Seated Shoulder Press (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-      "Shoulders"
+   "Shoulders"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -102,13 +102,13 @@
   "name": "Chin-Up",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-      "Biceps",
-      "Back (upper)"
+   "Biceps",
+   "Back (upper)"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
   ],
-  "kind": 0
+  "kind": 2
  },
  {
   "id": "Close-Grip_Bench_Press",
@@ -695,7 +695,7 @@
   "instructions": [
    "This exercise has not yet been specified instructions."
   ],
-  "kind": 0
+  "kind": 2
  },
  {
   "id": "Bench_Press_Dumbbell",
@@ -917,7 +917,8 @@
   "name": "Hammer Curl (Cable)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-   "Biceps"
+   "Biceps",
+   "Forearms"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -1050,10 +1051,10 @@
   "name": "Pullover (Dumbbell)",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
-    "Chest",
-    "Back (upper)",
-    "Shoulders",
-    "Triceps"
+   "Chest",
+   "Back (upper)",
+   "Shoulders",
+   "Triceps"
   ],
   "instructions": [
    "This exercise has not yet been specified instructions."
@@ -1085,8 +1086,8 @@
   "kind": 0
  },
  {
-  "id": "Tricep_Dips",
-  "name": "Tricep Dips",
+  "id": "Tricep_Dip",
+  "name": "Tricep Dip",
   "description": "This exercise has not yet been given a description.",
   "musclesWorked": [
    "Triceps"
@@ -1094,7 +1095,7 @@
   "instructions": [
    "This exercise has not yet been specified instructions."
   ],
-  "kind": 0
+  "kind": 2
  },
  {
   "id": "Preacher_Curl_Dumbbell",
@@ -1132,7 +1133,7 @@
   "instructions": [
    "This exercise has not yet been specified instructions."
   ],
-  "kind": 0
+  "kind": 2
  },
  {
   "id": "Lat_Pulldown_Cable",
@@ -1232,5 +1233,17 @@
    "This exercise has not yet been specified instructions."
   ],
   "kind": 0
+ },
+ {
+  "id": "Dead_Hang",
+  "name": "Dead Hang",
+  "description": "This exercise has not yet been given a description.",
+  "musclesWorked": [
+   "Forearms"
+  ],
+  "instructions": [
+   "This exercise has not yet been specified instructions."
+  ],
+  "kind": 1
  }
 ]
